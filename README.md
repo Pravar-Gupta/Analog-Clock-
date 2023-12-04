@@ -1,2 +1,2 @@
 # Analog Clock 
- Analog clock with both white and dark themes.
+Fully functional Analog clock with both white and dark themes.
